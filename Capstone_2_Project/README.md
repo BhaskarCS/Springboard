@@ -6,5 +6,10 @@ In this project, we predict the fare amount (inclusive of tolls) for a taxi ride
 ## Table of contents 
 
 ### [Project Proposal](https://github.com/BhaskarCS/Springboard/blob/master/Capstone_2_Project/Reports/2%20-%20Project%20Proposal.docx)
+* The document contains the business problem, business objective, methodology, and deliverables
 
 ### [Milestone Report](https://github.com/BhaskarCS/Springboard/blob/master/Capstone_2_Project/Reports/3%20-%20Capstone%20Project%202-%20Milestone%20Report.docx)
+
+### [Milestone Report](https://github.com/BhaskarCS/Springboard/blob/master/Capstone_2_Project/Reports/4%20-%20New%20York%20City%20Taxi%20Fare%20Prediction.pptx)
+
+### [Final Report] (https://github.com/BhaskarCS/Springboard/blob/master/Capstone_2_Project/Reports/5%20-%20Final%20Report.docx)
